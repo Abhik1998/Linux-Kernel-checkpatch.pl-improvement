@@ -1,0 +1,6 @@
+9321f1aaf63e,Remove compiler check in unroll macro,,,
+dd821e0c95a6,io_uring: fix missing msg_name assignment,,,
+16d598030a37,io_uring: fix not initialised work->flags,ERROR:,"Please use git commit description style 'commit <12+ chars of sha1> (""<title line>"")' - ie: 'commit 59960b9deb53 (""io_uring: fix lazy work init"")","59960b9deb535 (""io_uring: fix lazy work init"") tried to fix missing"
+11ba468877bb,Linux 5.8-rc5,WARNING,Missing commit description - Add an appropriate one,"For some of the reported defects, checkpatch may be able"
+11ba468877bb,Linux 5.8-rc5,ERROR:,Missing Signed-off-by: line(s),
+f81fdd0c4ab7,mm: document warning in move_normal_pmd() and make it warn only once,,,
